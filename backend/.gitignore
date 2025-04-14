@@ -1,2 +1,4 @@
 # Hide zipped files in backend
 /*.zip
+*/node_modules
+*/package-lock.json
